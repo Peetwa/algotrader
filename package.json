@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ladinn/algotrader"
+    "url": "https://github.com/Peetwa/algotrader"
   },
   "keywords": [
     "api",
@@ -28,9 +28,9 @@
   "author": "Ladinn",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ladinn/algotrader/issues"
+    "url": "https://github.com/Peetwa/algotrader/issues"
   },
-  "homepage": "https://github.com/Ladinn/algotrader#readme",
+  "homepage": "https://github.com/Peetwa/algotrader#readme",
   "dependencies": {
     "async": "^2.6.0",
     "cheerio": "^1.0.0-rc.2",
